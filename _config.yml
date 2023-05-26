@@ -1,1 +1,17 @@
 theme: just-the-docs
+collections_dir: content
+collections:
+  tools:
+    output: true
+
+defaults:
+  - scope:
+      path: "content"
+    values:
+      layout: default
+
+just_the_docs:
+  collections:
+    tools:
+      name: Tools
+      nav_fold: true
