@@ -4,12 +4,6 @@ collections:
   tools:
     output: true
 
-defaults:
-  - scope:
-      path: "content"
-    values:
-      layout: default
-
 just_the_docs:
   collections:
     tools:
