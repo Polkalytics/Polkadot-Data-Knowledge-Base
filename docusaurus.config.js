@@ -14,12 +14,12 @@ const config = {
   url: 'https://polkalytics.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Polkadot-Data-Ecosystem-Website/',
+  baseUrl: '/Polkadot-Data-Knowledge-Base/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Polkalytics', // Usually your GitHub org/user name.
-  projectName: 'Polkadot-Data-Ecosystem-Website', // Usually your repo name.
+  projectName: 'Polkadot-Data-Knowledge-Base', // Usually your repo name.
   deploymentBranch: 'main',
   trailingSlash: false,
 
@@ -72,7 +72,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Polkalytics/Polkadot-Data-Ecosystem',
+            href: 'https://github.com/Polkalytics/Polkadot-Data-Knowledge-Base',
             label: 'GitHub',
             position: 'right',
           },
