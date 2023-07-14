@@ -3,7 +3,8 @@ collections_dir: content
 collections:
   actors:
     output: true
-  data:
+    summary: "This is a list of all <b>actors</b>"
+  datasets:
     output: true
   discussion:
     output: true
@@ -19,17 +20,17 @@ collections:
 
 just_the_docs:
   collections:
+    knowledge:
+      name: Knowledge
+      nav_fold: true
     actors:
       name: Actors
       nav_fold: true
-    data:
+    datasets:
       name: Data
       nav_fold: true
     discussion:
       name: Discussion
-      nav_fold: true
-    knowledge:
-      name: Knowledge
       nav_fold: true
     libraries:
       name: Libraries
