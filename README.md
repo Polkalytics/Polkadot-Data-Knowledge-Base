@@ -1,4 +1,4 @@
-
+Repo for the [Polkadot Data Ecosystem Website](https://polkalytics.github.io/Polkadot-Data-Ecosystem-Website/)
 
 # Setup
 This website automatically deploys via Github Pages. To run locally, follow these steps:

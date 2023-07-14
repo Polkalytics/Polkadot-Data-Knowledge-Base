@@ -1,11 +1,42 @@
 theme: just-the-docs
 collections_dir: content
 collections:
+  actors:
+    output: true
+  data:
+    output: true
+  discussion:
+    output: true
+  knowledge:
+    output: true
+  libraries:
+    output: true
+  reports:
+    output: true
   tools:
     output: true
+  
 
 just_the_docs:
   collections:
+    actors:
+      name: Actors
+      nav_fold: true
+    data:
+      name: Data
+      nav_fold: true
+    discussion:
+      name: Discussion
+      nav_fold: true
+    knowledge:
+      name: Knowledge
+      nav_fold: true
+    libraries:
+      name: Libraries
+      nav_fold: true
+    reports:
+      name: Reports
+      nav_fold: true
     tools:
       name: Tools
       nav_fold: true
