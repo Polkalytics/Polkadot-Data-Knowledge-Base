@@ -1,3 +1,0 @@
-[submodule "content"]
-	path = docs
-	url = git@github.com:Polkalytics/Polkadot-Data-Ecosystem.git
