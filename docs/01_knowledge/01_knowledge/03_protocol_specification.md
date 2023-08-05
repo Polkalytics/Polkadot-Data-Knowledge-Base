@@ -1,4 +1,4 @@
-# Polkaot Protocol Specification
+# Polkadot Protocol Specification
 
 The Polkadot Protocol Specification describes the Polkadot Host and Polkadot Runtime. It is the shared implementation of the Rust, Go, and C++ implementations that are also referenced there.
 
