@@ -8,6 +8,28 @@ title: Roadmap
 - [ ] Define checklists/quality criteria/inclusion criteria for summarized information
 - [ ] Submission policy
 
+## Survey Clusters
+
+(´1´ indicates that the first pass is done. ´x´ indicates that a topic is considered complete)
+
+- [ ] Research & Knowledge
+    - [1] Knowledge Bases
+    - [1] Discussion
+    - [1] Reports & Research (ask around for more reports)
+    - [ ] Grants
+    - [1] Glossaries
+- [ ] Actors & Events
+    - [ ] Actors, Service Providers (RPC Infra), Contacts
+    - [ ] Events
+    - [ ] Discord Server / Communities
+- [ ] Tech & Exploration
+    - [ ] Tools, Explorers, Dashboards
+    - [ ] Libraries
+- [ ] Standards & Data
+    - [ ] Standards
+    - [ ] Datasets
+    - [ ] Schemas
+
 ## Research
 - [ ] Crawling
     - [ ] Working through Search Engines on each survey topic
@@ -24,24 +46,3 @@ title: Roadmap
 - [ ] Field testing
 - [ ] Summary Report
 - [ ] Public Promotion
-
-
-## Survey Clusters
-
-- [ ] Research & Knowledge
-    - [ ] Glossary Definitions
-    - [ ] Knowledge Bases
-    - [ ] Reports
-    - [ ] Research
-    - [ ] Grants
-- [ ] Actors & Events
-    - [ ] Actors, Service Providers (RPC Infra), Contacts
-    - [ ] Events
-    - [ ] Discord Server / Communities
-- [ ] Tech & Exploration
-    - [ ] Tools, Explorers, Dashboards
-    - [ ] Libraries
-- [ ] Standards & Data
-    - [ ] Standards
-    - [ ] Datasets
-    - [ ] Schemas
