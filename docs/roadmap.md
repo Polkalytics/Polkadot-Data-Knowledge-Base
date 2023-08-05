@@ -1,6 +1,4 @@
----
-title: Roadmap
----
+# Roadmap
 
 ## Administrative
 - [x] Setting up the repos
@@ -18,16 +16,17 @@ title: Roadmap
     - [1] Reports & Research (ask around for more reports)
     - [ ] Grants
     - [1] Glossaries
-- [ ] Actors & Events
+- [ ] Actors
     - [ ] Actors, Service Providers (RPC Infra), Contacts
-    - [ ] Events
     - [ ] Discord Server / Communities
-- [ ] Tech & Exploration
-    - [ ] Tools, Explorers, Dashboards
-    - [ ] Libraries
-- [ ] Standards & Data
+- [ ] Tools
+    - [1] Libraries - add owners, ask owners for descriptions and links, other languages, minimum required properties
+    - [1] Explorers
+    - [1] Dashboards
+- [ ] Data
     - [ ] Standards
     - [ ] Datasets
+    - [ ] APIs
     - [ ] Schemas
 
 ## Research

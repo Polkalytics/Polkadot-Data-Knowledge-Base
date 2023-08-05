@@ -1,0 +1,8 @@
+{
+  "label": "Tools",
+  "link": {
+    "type": "generated-index",
+    "description": "This chapter collects libraries and tools.",
+    "slug": "tools"
+  }
+}
