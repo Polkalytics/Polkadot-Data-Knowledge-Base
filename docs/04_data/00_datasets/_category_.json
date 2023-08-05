@@ -1,7 +1,7 @@
 {
-  "label": "Data",
+  "label": "Datasets",
   "link": {
     "type": "generated-index",
-    "slug": "data"
+    "slug": "data/datasets"
   }
 }

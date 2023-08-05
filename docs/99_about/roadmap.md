@@ -4,7 +4,7 @@
 - [x] Setting up the repos
 - [ ] Defining style guide
 - [ ] Define checklists/quality criteria/inclusion criteria for summarized information
-- [ ] Submission policy
+- [x] Submission policy
 
 ## Survey Clusters
 
@@ -19,14 +19,14 @@
 - [ ] Actors
     - [ ] Actors, Service Providers (RPC Infra), Contacts
     - [ ] Discord Server / Communities
-- [ ] Tools
+- [1] Tools
     - [1] Libraries - add owners, ask owners for descriptions and links, other languages, minimum required properties
     - [1] Explorers
     - [1] Dashboards
 - [ ] Data
     - [ ] Standards
-    - [ ] Datasets
-    - [ ] APIs
+    - [1] Datasets
+    - [1] APIs
     - [ ] Schemas
 
 ## Research
