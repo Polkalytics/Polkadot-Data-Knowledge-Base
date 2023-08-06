@@ -1,6 +1,6 @@
-# Web3Metrics
+# web3metrics
 
-
-It is maintained by Apexti
+Web3Metrics has dashboards on active addresses, unique addresses and transfers
 
 - URL: https://web3metrics.com/
+- Maintained by [Apexti](/actors/apexti)

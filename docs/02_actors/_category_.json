@@ -1,7 +1,6 @@
 {
-  "label": "Actors & Events",
+  "label": "Actors",
   "position": 3,
-  "className": "hidden",
   "link": {
     "type": "generated-index",
     "description": "..."

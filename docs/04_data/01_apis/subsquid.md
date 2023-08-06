@@ -4,3 +4,4 @@ Subsquid is a Web3 indexing protocol that spans several ecosystems. Developers c
 
 - URL: https://www.subsquid.io/
 - Docs: https://docs.subsquid.io/
+- Maintainer: [Subsquid team](/actors/subsquid)
