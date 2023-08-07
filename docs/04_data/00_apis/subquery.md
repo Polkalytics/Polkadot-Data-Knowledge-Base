@@ -14,13 +14,13 @@ Another one of SubQuery's competitive advantages is the ability to aggregate dat
 
 Other advantages include superior performance with multiple RPC endpoint configurations, multi-worker capabilities and a configurable caching architecture. To find out more, visit our [documentation](https://academy.subquery).
 
-## Getting started
+### Getting started
 
 SubQuery publishes a quick start guide for various Polkadot netoworks. For Polkadot, the example indexes all asset transfers using the balances pallet on the Polkadot Network.
 
 You can follow along this [step by step guide](https://academy.subquery.network/quickstart/quickstart_chains/polkadot.html).
 
-## Running and Hosting your Base SubQuery APIs
+### Running and Hosting your Base SubQuery APIs
 
 SubQuery is open-source, meaning you have the freedom to run it in the following three ways:
 
@@ -28,6 +28,6 @@ SubQuery is open-source, meaning you have the freedom to run it in the following
 - By publishing it to SubQuery's enterprise-level [Managed Service](https://managedservice.subquery.network), where we'll host your SubQuery project in production ready services for mission critical data with zero-downtime blue/green deployments. There even is a generous free tier. [Find out how](https://academy.subquery.network/run_publish/publish.html)
 - [Coming Soon] By publishing it to the decentralised [SubQuery Network](https://subquery.network/network), the most open, performant, reliable, and scalable data service for dApp developers. The SubQuery Network indexes and services data to the global community in an incentivised and verifiable way and supports Polkadot from launch
 
-## Need Help?
+### Need Help?
 
 The fastest way to get support is by [searching our documentation](https://academy.subquery.network), or by [joining our discord](https://discord.com/invite/subquery) and messaging us in the `#technical-support` channel.
