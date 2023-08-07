@@ -16,3 +16,5 @@ If you want to contribute in your own words, you can do so. To do this, please a
 `## NAME in their own words`
 
 and make all consecutive headlines one layer below. (`### etc`).
+
+See an example [here](/data/apis/subquery)
