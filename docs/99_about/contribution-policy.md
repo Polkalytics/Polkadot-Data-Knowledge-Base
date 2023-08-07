@@ -1,6 +1,10 @@
 # Contribution Policy
 
-You are invited to contribute to the Polkadot Data Knowledge Base. You can propose changes to existing entries or to add new ones. To contribute:
+You are invited to contribute to the Polkadot Data Knowledge Base. If you represent a team/product, this gives you an excellent opportunity to add relevant context and information. Please read this page carefully.
+
+## How to contribute
+
+You can propose changes to existing entries or to add new ones. To contribute:
 - Visit the [Github repo](https://github.com/Polkalytics/Polkadot-Data-Knowledge-Base) and fork it.
 - Commit changes to your fork
 - Submit a [pull request](https://github.com/Polkalytics/Polkadot-Data-Knowledge-Base/pulls)
