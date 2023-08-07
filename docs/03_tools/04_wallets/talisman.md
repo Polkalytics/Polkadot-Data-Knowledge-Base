@@ -13,4 +13,5 @@ Official Links:
 - URL: https://www.talisman.xyz/
 - Docs: https://docs.talisman.xyz/
 - Support: https://discord.gg/talisman
+- Github: https://github.com/TalismanSociety
 - Maintained by the [Talisman team](/actors/talisman)
