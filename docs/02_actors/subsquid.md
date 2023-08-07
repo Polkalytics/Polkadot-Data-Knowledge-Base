@@ -1,8 +1,6 @@
 # Subsquid
 
-The Subsquid team is building Web3 indexing infrastructure.
-
-- Product: [Subsquid](/data/apis/subsquid)
+The Subsquid team is building [Subsquid](/data/apis/subsquid), a Web3 indexing infrastructure.
 
 Official profiles:
 - Twitter: https://twitter.com/subsquid

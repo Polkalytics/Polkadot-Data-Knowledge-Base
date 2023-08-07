@@ -13,4 +13,4 @@ Official Links:
 - Docs: https://myetherwallet.gitbook.io/enkrypt-documentation/
 - Github: https://github.com/enkryptcom/enKrypt
 - Support: https://discord.gg/Gz8vBneyKe
-- Maintained by [MyEtherWallet.com]
+- Maintained by [MyEtherWallet.com](https://www.myetherwallet.com/)
