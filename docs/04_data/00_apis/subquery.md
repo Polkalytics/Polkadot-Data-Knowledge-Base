@@ -20,7 +20,7 @@ SubQuery publishes a quick start guide for various Polkadot netoworks. For Polka
 
 You can follow along this [step by step guide](https://academy.subquery.network/quickstart/quickstart_chains/polkadot.html).
 
-### Running and Hosting your Base SubQuery APIs
+### Running and Hosting your Polkadot SubQuery APIs
 
 SubQuery is open-source, meaning you have the freedom to run it in the following three ways:
 
