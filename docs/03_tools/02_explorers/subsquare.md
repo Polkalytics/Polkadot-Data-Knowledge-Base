@@ -5,3 +5,4 @@ Subsquare is a governance explorer that allows you to participate in off-chain d
 
 - URL: https://www.subsquare.io/
 - Maintained by [OpenSquare](/actors/opensquare)
+- [Grants](/research/grants/opensquare)

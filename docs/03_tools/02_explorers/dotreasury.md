@@ -5,3 +5,4 @@ doTreasury highlights the Polkadot, Kusama, and Edgeware treasuries and gives in
 
 - URL: https://www.dotreasury.com/
 - Maintained by [OpenSquare](/actors/opensquare)
+- [Grants](/research/grants/opensquare)

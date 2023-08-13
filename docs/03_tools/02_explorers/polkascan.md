@@ -6,3 +6,4 @@ A block explorer that is not as enduser-friendly as [Subscan](./subscan), but ca
 Maintained by the Polkascan Foundation.
 
 - URL: https://explorer.polkascan.io/
+- [Grants](/research/grants/polkascan)
