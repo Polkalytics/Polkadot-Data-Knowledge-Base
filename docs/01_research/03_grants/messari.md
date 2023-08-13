@@ -6,7 +6,6 @@ title: Messari
 Funding for [Messari Reports](/research/reports/messari-reports)
 
 ## Polkadot
-### Gov V1 Treasury Proposals
 
 
 |   Index | Awarded    | DOT   | USD     | Description                                 | Subsquare                                                               | Polkassembly                                                         |

@@ -6,7 +6,6 @@ title: Talisman
 Funding for [Talisman](/tools/wallets/talisman)
 
 ## Polkadot
-### Gov V1 Treasury Proposals
 
 |   Index | Awarded    | DOT    | USD    | Description                                                | Subsquare                                                                | Polkassembly                                                          |
 |--------:|:-----------|:-------|:-------|:-----------------------------------------------------------|:-------------------------------------------------------------------------|:----------------------------------------------------------------------|

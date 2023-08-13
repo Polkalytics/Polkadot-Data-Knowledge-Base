@@ -6,7 +6,6 @@ title: Subwallet
 Funding for [Subwallet](/tools/wallets/subwallet)
 
 ## Polkadot
-### Gov V1 Treasury Proposals
 |   Index | Awarded    | DOT    | USD     | Description                                                                                                                                                                                                                                                                | Subsquare                                                                | Polkassembly                                                          |
 |--------:|:-----------|:-------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:----------------------------------------------------------------------|
 |     138 | 2022-07-07 | 38,330 | 256,043 | SubWallet Proposes to Build the Web3 Multiverse Gateway for Polkadot & Kusama ecosystem - Milestone 1                                                                                                                                                                      | [View on Subsquare](https://polkadot.subsquare.io/treasury/proposal/138) | [View on Polkassembly](https://polkadot.polkassembly.io/treasury/138) |

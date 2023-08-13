@@ -15,4 +15,4 @@ Official Links:
 - Support: https://discord.gg/talisman
 - Github: https://github.com/TalismanSociety
 - Maintained by the [Talisman team](/actors/talisman)
-- [Grants](/research/grants/talisman)
+- [Grants](/research/grants/wallets/talisman)

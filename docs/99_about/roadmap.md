@@ -8,13 +8,11 @@
 
 ## Survey Clusters
 
-(´1´ indicates that the first pass is done. ´x´ indicates that a topic is considered complete)
-
 - [ ] Research & Knowledge
     - [1] Knowledge Bases
     - [1] Discussion
     - [1] Reports & Research (ask around for more reports)
-    - [ ] Grants
+    - [1] Grants
     - [1] Glossaries
 - [1] Actors
 - [1] Tools
@@ -30,7 +28,7 @@
   - [1] Communities
 
 ## Research
-- [ ] Notes Pass
+- [x] Notes Pass
 - [ ] Crawling
   - [ ] Crawl through own articles to
     - [ ] discover link inconsistencies

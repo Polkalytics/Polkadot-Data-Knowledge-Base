@@ -6,7 +6,6 @@ title: Subscan
 Funding for [Subscan](/tools/explorers/subscan)
 
 ## Polkadot
-### Gov V1 Treasury Proposals
 
 |   Index | Awarded    | DOT    | USD     | Description                                                                                                                            | Subsquare                                                                | Polkassembly                                                          |
 |--------:|:-----------|:-------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:----------------------------------------------------------------------|
@@ -20,3 +19,10 @@ Funding for [Subscan](/tools/explorers/subscan)
 |     151 | 2022-08-25 | 7,205  | 48,464  | Subscan - Infrastructure Costs of Subscan for Polkadot & Westend & Rococo Networks                                                     | [View on Subsquare](https://polkadot.subsquare.io/treasury/proposal/151) | [View on Polkassembly](https://polkadot.polkassembly.io/treasury/151) |
 |     198 | 2022-12-23 | 37,183 | 195,958 | Subscan - Data Dashboard Customization Toolset                                                                                         | [View on Subsquare](https://polkadot.subsquare.io/treasury/proposal/198) | [View on Polkassembly](https://polkadot.polkassembly.io/treasury/198) |
 |     342 | 2023-07-28 | 41,867 | 224,458 | Subscan - Infrastructure Costs of Subscan for Polkadot & Westend & Rococo & Statemint & Rockmine Networks (from July to December 2022) | [View on Subsquare](https://polkadot.subsquare.io/treasury/proposal/342) | [View on Polkassembly](https://polkadot.polkassembly.io/treasury/342) |
+
+## Kusama
+
+|   Index | Awarded    | KSM   | USD    | Description                                                                                                               | Subsquare                                                              | Polkassembly                                                        |
+|--------:|:-----------|:------|:-------|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|:--------------------------------------------------------------------|
+|      54 | 2020-11-15 | 75    | 2,192  | The operating expenses of SUBSCAN (Kusama network) from December 2020 to February 2021                                    | [View on Subsquare](https://kusama.subsquare.io/treasury/proposal/54)  | [View on Polkassembly](https://kusama.polkassembly.io/treasury/54)  |
+|     326 | 2023-07-18 | 2,425 | 57,963 | Subscan - Infrastructure Costs of Subscan for Kusama & Statemine (from July to December 2022) - Medium SpenderMaintenance | [View on Subsquare](https://kusama.subsquare.io/treasury/proposal/326) | [View on Polkassembly](https://kusama.polkassembly.io/treasury/326) |
