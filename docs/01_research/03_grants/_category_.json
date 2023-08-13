@@ -1,0 +1,8 @@
+{
+  "label": "Grants",
+  "link": {
+    "type": "generated-index",
+    "description": "Awarded grants in Polkadot and Kusama.",
+    "slug": "research/grants"
+  }
+}
