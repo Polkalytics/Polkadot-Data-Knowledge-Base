@@ -1,11 +1,11 @@
 # Polkadot Protocol Specification
 
-The Polkadot Protocol Specification describes the Polkadot Host and Polkadot Runtime. It is the shared implementation of the Rust, Go, and C++ implementations that are also referenced there.
+The Polkadot Protocol Specification describes the Polkadot Host and Polkadot Runtime. It is the shared implementation of the Rust, Go, and C++ implementations that are also referenced here.
 
 - URL: https://spec.polkadot.network/
 
 ## BABE
-BABE is a protocol for propabilistic finality. It is an extension of Ouroboros Praos that works without relying on centralized NTP servers.
+BABE is a protocol for probabilistic finality. It is an extension of Ouroboros Praos that works without relying on centralized NTP servers.
 
 - Article: https://polkadot.network/blog/polkadot-consensus-part-3-babe
 - Paper: https://research.web3.foundation/Polkadot/protocols/block-production/Babe
